@@ -144,7 +144,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "langfuse", specifier = ">=3" },
+    { name = "langfuse", specifier = ">=4" },
     { name = "python-dotenv" },
 ]
 
